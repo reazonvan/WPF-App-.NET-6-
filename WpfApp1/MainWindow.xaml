@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox x:Name="txtStudentName" Width="200" Height="30" Margin="10" Text="Введите имя студента"/>
             <Button x:Name="btnAddStudent" Content="Добавить студента" Width="150" Height="35" Margin="10"/>
         </StackPanel>
     </Grid>
