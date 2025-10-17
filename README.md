@@ -22,23 +22,3 @@ git clone https://github.com/reazonvan/WPF-App-.NET-6-.git
 cd WPF-App-.NET-6-
 ```
 Откройте `WpfApp1.sln` в Visual Studio 2022 и нажмите F5.
-
-## Скриншоты для отчёта
-
-**1. История коммитов:**
-```powershell
-git log --oneline --graph --all
-```
-
-**2. Проект в Visual Studio:**
-- Откройте MainWindow.xaml
-- Покажите дизайнер с элементами
-
-**3. Работающее приложение:**
-- Запустите проект (F5)
-- Нажмите кнопку
-- Сфотографируйте MessageBox "Студент добавлен!"
-
-**4. Репозиторий на GitHub:**
-- https://github.com/reazonvan/WPF-App-.NET-6-
-
